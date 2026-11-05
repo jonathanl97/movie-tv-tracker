@@ -1,5 +1,7 @@
-import Image from "next/image";
-
-export default function Home() {
-  return <></>;
+export default function Page() {
+  return (
+    <>
+      <div className="px-4 py-4 align-middle"></div>
+    </>
+  );
 }
